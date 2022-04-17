@@ -1,8 +1,10 @@
-import Counter from "./components/counter";
+// import Counter from "./components/counter";
+import MouseMove from "./components/mousemove";
 
 function App() {
   return <div className="App">
-    <Counter />
+    {/* <Counter /> */}
+    <MouseMove />
   </div>;
 }
 
