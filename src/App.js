@@ -1,13 +1,14 @@
 // import Counter from "./components/counter";
 // import MouseMove from "./components/mousemove";
-
-import GIPHY from "./components/GIPHY";
+import Robohash from "./components/Robohash";
+// import GIPHY from "./components/GIPHY";
 
 function App() {
   return <div className="App">
     {/* <Counter /> */}
     {/* <MouseMove /> */}
-    <GIPHY />
+    {/* <GIPHY /> */}
+    <Robohash />
   </div>;
 }
 
